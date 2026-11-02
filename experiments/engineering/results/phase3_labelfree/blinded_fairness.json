@@ -1,0 +1,342 @@
+{
+ "primary_rows": [],
+ "institution_only_rows": [
+  {
+   "resume_id": "11890896",
+   "jd": "Civil",
+   "score_clean": 40.0,
+   "score_blinded": 40.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 3,
+   "tokens_blinded": 3,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "21298336",
+   "jd": "Civil",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 5,
+   "tokens_blinded": 5,
+   "n_institutions_harvested": 1
+  },
+  {
+   "resume_id": "28005884",
+   "jd": "Civil",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 7,
+   "tokens_blinded": 7,
+   "n_institutions_harvested": 3
+  },
+  {
+   "resume_id": "31684925",
+   "jd": "Civil",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 6,
+   "tokens_blinded": 6,
+   "n_institutions_harvested": 1
+  },
+  {
+   "resume_id": "12472574",
+   "jd": "Electrical",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 13,
+   "tokens_blinded": 13,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "12748557",
+   "jd": "Electrical",
+   "score_clean": 50.0,
+   "score_blinded": 50.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 5,
+   "tokens_blinded": 5,
+   "n_institutions_harvested": 1
+  },
+  {
+   "resume_id": "17103000",
+   "jd": "Electrical",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 7,
+   "tokens_blinded": 7,
+   "n_institutions_harvested": 4
+  },
+  {
+   "resume_id": "10985403",
+   "jd": "Mechanical",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 18,
+   "tokens_blinded": 18,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "12022566",
+   "jd": "Mechanical",
+   "score_clean": 90.0,
+   "score_blinded": 90.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 9,
+   "tokens_blinded": 9,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "12488356",
+   "jd": "Mechanical",
+   "score_clean": 60.0,
+   "score_blinded": 60.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 2,
+   "tokens_blinded": 2,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "12518008",
+   "jd": "Mechanical",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 3,
+   "tokens_blinded": 3,
+   "n_institutions_harvested": 1
+  },
+  {
+   "resume_id": "10624813",
+   "jd": "Software",
+   "score_clean": 80.0,
+   "score_blinded": 80.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 13,
+   "tokens_blinded": 13,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "11981094",
+   "jd": "Software",
+   "score_clean": 50.0,
+   "score_blinded": 50.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 7,
+   "tokens_blinded": 7,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "12011623",
+   "jd": "Software",
+   "score_clean": 50.0,
+   "score_blinded": 50.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 7,
+   "tokens_blinded": 7,
+   "n_institutions_harvested": 4
+  },
+  {
+   "resume_id": "13264796",
+   "jd": "Software",
+   "score_clean": 20.0,
+   "score_blinded": 20.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 6,
+   "tokens_blinded": 6,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "10030015",
+   "jd": "Technician",
+   "score_clean": 0.0,
+   "score_blinded": 0.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 2,
+   "tokens_blinded": 2,
+   "n_institutions_harvested": 2
+  },
+  {
+   "resume_id": "10219099",
+   "jd": "Technician",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 12,
+   "tokens_blinded": 12,
+   "n_institutions_harvested": 1
+  },
+  {
+   "resume_id": "10712803",
+   "jd": "Technician",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 16,
+   "tokens_blinded": 16,
+   "n_institutions_harvested": 5
+  },
+  {
+   "resume_id": "13149176",
+   "jd": "Technician",
+   "score_clean": 100.0,
+   "score_blinded": 100.0,
+   "delta": 0.0,
+   "abs_delta": 0.0,
+   "tokens_clean": 9,
+   "tokens_blinded": 9,
+   "n_institutions_harvested": 2
+  }
+ ],
+ "summary": {
+  "n_sample": 20,
+  "primary": {
+   "n_included": 0,
+   "mean_abs_delta": null,
+   "max_abs_delta": null,
+   "n_delta_ge_10": 0,
+   "n_delta_nonzero": 0,
+   "n_token_count_changed": 0
+  },
+  "primary_excluded": [
+   {
+    "resume_id": "11890896",
+    "jd": "Civil",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "21298336",
+    "jd": "Civil",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "28005884",
+    "jd": "Civil",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "31684925",
+    "jd": "Civil",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "12472574",
+    "jd": "Electrical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "12748557",
+    "jd": "Electrical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "16803215",
+    "jd": "Electrical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "17103000",
+    "jd": "Electrical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "10985403",
+    "jd": "Mechanical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "12022566",
+    "jd": "Mechanical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "12488356",
+    "jd": "Mechanical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "12518008",
+    "jd": "Mechanical",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "10624813",
+    "jd": "Software",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "11981094",
+    "jd": "Software",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "12011623",
+    "jd": "Software",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "13264796",
+    "jd": "Software",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "10030015",
+    "jd": "Technician",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "10219099",
+    "jd": "Technician",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "10712803",
+    "jd": "Technician",
+    "reason": "E1"
+   },
+   {
+    "resume_id": "13149176",
+    "jd": "Technician",
+    "reason": "E1"
+   }
+  ],
+  "institution_only": {
+   "n_included": 19,
+   "mean_abs_delta": 0.0,
+   "max_abs_delta": 0.0,
+   "n_delta_ge_10": 0,
+   "n_delta_nonzero": 0,
+   "n_token_count_changed": 0
+  },
+  "institution_only_excluded": [
+   {
+    "resume_id": "16803215",
+    "jd": "Electrical",
+    "reason": "E2-inst: no institutions harvested"
+   }
+  ]
+ }
+}

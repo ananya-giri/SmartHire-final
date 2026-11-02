@@ -1,0 +1,517 @@
+{
+ "sample": [
+  "11890896:Civil",
+  "21298336:Civil",
+  "28005884:Civil",
+  "31684925:Civil",
+  "12472574:Electrical",
+  "12748557:Electrical",
+  "16803215:Electrical",
+  "17103000:Electrical",
+  "10985403:Mechanical",
+  "12022566:Mechanical",
+  "12488356:Mechanical",
+  "12518008:Mechanical",
+  "10624813:Software",
+  "11981094:Software",
+  "12011623:Software",
+  "13264796:Software",
+  "10030015:Technician",
+  "10219099:Technician",
+  "10712803:Technician",
+  "13149176:Technician"
+ ],
+ "rows": [
+  {
+   "resume_id": "11890896",
+   "jd": "Civil",
+   "n_tokens": 3,
+   "baseline_score": 40.0,
+   "k_evaluated": 3,
+   "n_positive_shapley_tokens": 1,
+   "aopc_top_shapley": 40.0,
+   "top_drops": [
+    40.0,
+    40.0,
+    40.0
+   ],
+   "aopc_random_mean5": 18.6667,
+   "random_order_aopcs": [
+    26.6667,
+    13.3333,
+    13.3333,
+    13.3333,
+    26.6667
+   ],
+   "gap_top_minus_random": 21.3333
+  },
+  {
+   "resume_id": "21298336",
+   "jd": "Civil",
+   "n_tokens": 4,
+   "baseline_score": 60.0,
+   "k_evaluated": 4,
+   "n_positive_shapley_tokens": 2,
+   "aopc_top_shapley": 45.0,
+   "top_drops": [
+    0.0,
+    60.0,
+    60.0,
+    60.0
+   ],
+   "aopc_random_mean5": 30.0,
+   "random_order_aopcs": [
+    15.0,
+    30.0,
+    45.0,
+    15.0,
+    45.0
+   ],
+   "gap_top_minus_random": 15.0
+  },
+  {
+   "resume_id": "28005884",
+   "jd": "Civil",
+   "n_tokens": 4,
+   "baseline_score": 100.0,
+   "k_evaluated": 4,
+   "n_positive_shapley_tokens": 2,
+   "aopc_top_shapley": 90.0,
+   "top_drops": [
+    60.0,
+    100.0,
+    100.0,
+    100.0
+   ],
+   "aopc_random_mean5": 61.0,
+   "random_order_aopcs": [
+    40.0,
+    45.0,
+    65.0,
+    70.0,
+    85.0
+   ],
+   "gap_top_minus_random": 29.0
+  },
+  {
+   "resume_id": "31684925",
+   "jd": "Civil",
+   "n_tokens": 5,
+   "baseline_score": 60.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 1,
+   "aopc_top_shapley": 60.0,
+   "top_drops": [
+    60.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0
+   ],
+   "aopc_random_mean5": 24.0,
+   "random_order_aopcs": [
+    12.0,
+    12.0,
+    12.0,
+    48.0,
+    36.0
+   ],
+   "gap_top_minus_random": 36.0
+  },
+  {
+   "resume_id": "12472574",
+   "jd": "Electrical",
+   "n_tokens": 11,
+   "baseline_score": 10.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 1,
+   "aopc_top_shapley": 10.0,
+   "top_drops": [
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0
+   ],
+   "aopc_random_mean5": 1.6,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    8.0
+   ],
+   "gap_top_minus_random": 8.4
+  },
+  {
+   "resume_id": "12748557",
+   "jd": "Electrical",
+   "n_tokens": 5,
+   "baseline_score": 50.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 3,
+   "aopc_top_shapley": 30.0,
+   "top_drops": [
+    0.0,
+    0.0,
+    50.0,
+    50.0,
+    50.0
+   ],
+   "aopc_random_mean5": 12.0,
+   "random_order_aopcs": [
+    10.0,
+    20.0,
+    10.0,
+    10.0,
+    10.0
+   ],
+   "gap_top_minus_random": 18.0
+  },
+  {
+   "resume_id": "16803215",
+   "jd": "Electrical",
+   "n_tokens": 4,
+   "baseline_score": 0.0,
+   "k_evaluated": 4,
+   "n_positive_shapley_tokens": 0,
+   "aopc_top_shapley": 0.0,
+   "top_drops": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "aopc_random_mean5": 0.0,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "gap_top_minus_random": 0.0
+  },
+  {
+   "resume_id": "17103000",
+   "jd": "Electrical",
+   "n_tokens": 4,
+   "baseline_score": 30.0,
+   "k_evaluated": 4,
+   "n_positive_shapley_tokens": 1,
+   "aopc_top_shapley": 30.0,
+   "top_drops": [
+    30.0,
+    30.0,
+    30.0,
+    30.0
+   ],
+   "aopc_random_mean5": 13.5,
+   "random_order_aopcs": [
+    7.5,
+    15.0,
+    15.0,
+    7.5,
+    22.5
+   ],
+   "gap_top_minus_random": 16.5
+  },
+  {
+   "resume_id": "10985403",
+   "jd": "Mechanical",
+   "n_tokens": 13,
+   "baseline_score": 100.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 11,
+   "aopc_top_shapley": 48.0,
+   "top_drops": [
+    0.0,
+    60.0,
+    60.0,
+    60.0,
+    60.0
+   ],
+   "aopc_random_mean5": 0.0,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "gap_top_minus_random": 48.0
+  },
+  {
+   "resume_id": "12022566",
+   "jd": "Mechanical",
+   "n_tokens": 8,
+   "baseline_score": 90.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 4,
+   "aopc_top_shapley": 54.0,
+   "top_drops": [
+    30.0,
+    30.0,
+    30.0,
+    90.0,
+    90.0
+   ],
+   "aopc_random_mean5": 13.2,
+   "random_order_aopcs": [
+    0.0,
+    18.0,
+    12.0,
+    30.0,
+    6.0
+   ],
+   "gap_top_minus_random": 40.8
+  },
+  {
+   "resume_id": "12488356",
+   "jd": "Mechanical",
+   "n_tokens": 0,
+   "baseline_score": 0.0,
+   "k_evaluated": 0,
+   "n_positive_shapley_tokens": 0,
+   "aopc_top_shapley": 0.0,
+   "top_drops": [],
+   "aopc_random_mean5": 0.0,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "gap_top_minus_random": 0.0
+  },
+  {
+   "resume_id": "12518008",
+   "jd": "Mechanical",
+   "n_tokens": 2,
+   "baseline_score": 90.0,
+   "k_evaluated": 2,
+   "n_positive_shapley_tokens": 2,
+   "aopc_top_shapley": 75.0,
+   "top_drops": [
+    60.0,
+    90.0
+   ],
+   "aopc_random_mean5": 75.0,
+   "random_order_aopcs": [
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0
+   ],
+   "gap_top_minus_random": 0.0
+  },
+  {
+   "resume_id": "10624813",
+   "jd": "Software",
+   "n_tokens": 13,
+   "baseline_score": 80.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 11,
+   "aopc_top_shapley": 18.0,
+   "top_drops": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    30.0
+   ],
+   "aopc_random_mean5": 9.6,
+   "random_order_aopcs": [
+    10.0,
+    6.0,
+    12.0,
+    8.0,
+    12.0
+   ],
+   "gap_top_minus_random": 8.4
+  },
+  {
+   "resume_id": "11981094",
+   "jd": "Software",
+   "n_tokens": 6,
+   "baseline_score": 50.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 5,
+   "aopc_top_shapley": 16.0,
+   "top_drops": [
+    0.0,
+    0.0,
+    10.0,
+    20.0,
+    50.0
+   ],
+   "aopc_random_mean5": 13.6,
+   "random_order_aopcs": [
+    14.0,
+    22.0,
+    10.0,
+    8.0,
+    14.0
+   ],
+   "gap_top_minus_random": 2.4
+  },
+  {
+   "resume_id": "12011623",
+   "jd": "Software",
+   "n_tokens": 6,
+   "baseline_score": 50.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 6,
+   "aopc_top_shapley": 32.0,
+   "top_drops": [
+    20.0,
+    30.0,
+    30.0,
+    40.0,
+    40.0
+   ],
+   "aopc_random_mean5": 20.4,
+   "random_order_aopcs": [
+    28.0,
+    28.0,
+    22.0,
+    10.0,
+    14.0
+   ],
+   "gap_top_minus_random": 11.6
+  },
+  {
+   "resume_id": "13264796",
+   "jd": "Software",
+   "n_tokens": 6,
+   "baseline_score": 20.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 2,
+   "aopc_top_shapley": 18.0,
+   "top_drops": [
+    10.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0
+   ],
+   "aopc_random_mean5": 9.2,
+   "random_order_aopcs": [
+    2.0,
+    14.0,
+    14.0,
+    12.0,
+    4.0
+   ],
+   "gap_top_minus_random": 8.8
+  },
+  {
+   "resume_id": "10030015",
+   "jd": "Technician",
+   "n_tokens": 1,
+   "baseline_score": 0.0,
+   "k_evaluated": 1,
+   "n_positive_shapley_tokens": 0,
+   "aopc_top_shapley": 0.0,
+   "top_drops": [
+    0.0
+   ],
+   "aopc_random_mean5": 0.0,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "gap_top_minus_random": 0.0
+  },
+  {
+   "resume_id": "10219099",
+   "jd": "Technician",
+   "n_tokens": 9,
+   "baseline_score": 90.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 6,
+   "aopc_top_shapley": 32.0,
+   "top_drops": [
+    0.0,
+    40.0,
+    40.0,
+    40.0,
+    40.0
+   ],
+   "aopc_random_mean5": 0.0,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "gap_top_minus_random": 32.0
+  },
+  {
+   "resume_id": "10712803",
+   "jd": "Technician",
+   "n_tokens": 12,
+   "baseline_score": 90.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 3,
+   "aopc_top_shapley": 70.0,
+   "top_drops": [
+    40.0,
+    40.0,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "aopc_random_mean5": 0.0,
+   "random_order_aopcs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "gap_top_minus_random": 70.0
+  },
+  {
+   "resume_id": "13149176",
+   "jd": "Technician",
+   "n_tokens": 5,
+   "baseline_score": 90.0,
+   "k_evaluated": 5,
+   "n_positive_shapley_tokens": 3,
+   "aopc_top_shapley": 70.0,
+   "top_drops": [
+    40.0,
+    40.0,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "aopc_random_mean5": 48.4,
+   "random_order_aopcs": [
+    52.0,
+    46.0,
+    28.0,
+    56.0,
+    60.0
+   ],
+   "gap_top_minus_random": 21.6
+  }
+ ],
+ "summary": {
+  "n": 20,
+  "n_eligible_baseline_gt_0": 17,
+  "mean_aopc_top_all20": 36.9,
+  "mean_aopc_random_all20": 17.5083,
+  "gap_all20": 19.3917,
+  "mean_aopc_top_eligible": 43.4118,
+  "mean_aopc_random_eligible": 20.598,
+  "gap_eligible": 22.8138
+ }
+}
